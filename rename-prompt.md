@@ -16,38 +16,38 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "Kshitij Chauhan | Blogs",
-      "first_heading": "Piano Concerts during COVID times"
-    }
-  },
-  {
-    "path": "blog_notorious-lolipop---loving-more-than-self.html",
+    "path": "blog-notorious-lolipop-loving-more-than-self.html",
     "context": {
       "title": "Notorious Lolipop - Loving more than self",
       "first_heading": "Notorious Lolipop - Loving more than self"
     }
   },
   {
-    "path": "blog_piano-concerts-during-covid-times.html",
+    "path": "blog-piano-concerts-during-covid-times.html",
     "context": {
       "title": "Piano Concerts during COVID times",
       "first_heading": "Piano Concerts during COVID times"
     }
   },
   {
-    "path": "blog_time-is-everything---quarantino.html",
+    "path": "blog-time-is-everything-quarantino.html",
     "context": {
       "title": "Time is everything - Quarantino",
       "first_heading": "Time is everything - Quarantino"
     }
   },
   {
-    "path": "blog_victory-in-the-face-of-adversity.html",
+    "path": "blog-victory-in-the-face-of-adversity.html",
     "context": {
       "title": "Victory In The Face Of Adversity",
       "first_heading": "Victory In The Face Of Adversity"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "Kshitij Chauhan | Blogs",
+      "first_heading": "Piano Concerts during COVID times"
     }
   },
   {
@@ -111,6 +111,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/0716f0e0259f1643675bab93d80dbfc1.webp",
     "context": {
       "refs": [
@@ -126,14 +132,20 @@ Files and context:
     "context": {
       "refs": [
         {
-          "alt": "Time is everything - Quarantino",
+          "alt": "blog-thumb-1",
           "title": ""
         },
         {
-          "alt": "blog-thumb-1",
+          "alt": "Time is everything - Quarantino",
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/1ce600d681a7ccc3c66378988d190ba8.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -175,6 +187,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/7637c7498c8796dfb8e60101bd449303.webp",
     "context": {
       "refs": [
@@ -183,6 +207,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -201,14 +231,26 @@ Files and context:
     "context": {
       "refs": [
         {
-          "alt": "Notorious Lolipop - Loving more than self",
+          "alt": "blog-thumb-1",
           "title": ""
         },
         {
-          "alt": "blog-thumb-1",
+          "alt": "Notorious Lolipop - Loving more than self",
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/891caac7bc333ae739706ffbb3ee74b5.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -238,6 +280,48 @@ Files and context:
     }
   },
   {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/ccc1dcdd8f8614ce672b77128f27fc60.webp",
     "context": {
       "refs": [
@@ -246,6 +330,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/d8db00b589ddf756f971c5449facaaa7.mp3",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -261,6 +351,18 @@ Files and context:
   },
   {
     "path": "imgs/e087fb7efca97977b41c86d58b3d7af4.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/e1c5cfb8dc28fc0abb9ef9ee97eab1ff.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/efd8d9488eadebd6269aed7dd4e3dde5.mp3",
     "context": {
       "refs": []
     }
